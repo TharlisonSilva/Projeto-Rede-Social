@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/05/05 19:03:16.000.864,=T:\Documentos\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/06 20:28:38.000.512,=T:\Documentos\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/03 18:35:58.000.821,=T:\Documentos\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/03 18:36:26.000.200,D:\Entra-21\Projetos\Projetos_Basicos\ProjetoTwitter\TelaPrincipal.pas=T:\Documentos\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/03 18:36:26.000.200,D:\Entra-21\Projetos\Projetos_Basicos\ProjetoTwitter\TelaPrincipal.dfm=T:\Documentos\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/07/03 18:36:32.000.559,D:\Entra-21\Projetos\Projetos_Basicos\ProjetoTwitter\ProjetoTwitter.dproj=T:\Documentos\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/07/10 19:02:27.000.214,=D:\Entra-21\Projetos\Projetos_Basicos\ProjetoTwitter\Unit1.pas</Transaction>
+    <Transaction>2017/07/10 19:15:40.000.184,D:\Entra-21\Projetos\Projetos_Basicos\ProjetoTwitter\TelaInicial.dfm=D:\Entra-21\Projetos\Projetos_Basicos\ProjetoTwitter\Unit1.dfm</Transaction>
+    <Transaction>2017/07/10 19:15:40.000.184,D:\Entra-21\Projetos\Projetos_Basicos\ProjetoTwitter\TelaInicial.pas=D:\Entra-21\Projetos\Projetos_Basicos\ProjetoTwitter\Unit1.pas</Transaction>
+    <Transaction>2017/07/10 19:32:36.000.017,D:\Entra-21\Projetos\Projetos_Basicos\ProjetoTwitter\TelaInicial.pas=</Transaction>
+    <Transaction>2017/10/22 20:29:16.000.320,C:\Users\Tales\Documents\Projetos\ProjetoTwitter\ProjetoTwitter.dproj=C:\Users\Tales\Documents\Projetos\Projeto-Rede-Social\ProjetoTwitter.dproj</Transaction>
+    <Transaction>2017/10/22 20:30:22.000.854,C:\Users\Tales\Documents\Projetos\Projeto-Rede-Social\ProjetoTwitter.dproj=C:\Users\Tales\Documents\Projetos\ProjetoTwitter\Rede_Social.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

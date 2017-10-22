@@ -1,0 +1,16 @@
+program ProjetoTwitter;
+
+uses
+  Forms,
+  TelaPrincipal in 'TelaPrincipal.pas' {FrmPrincipal},
+  TelaInicial in 'TelaInicial.pas' {Inicial};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmPrincipal, FrmPrincipal);
+  Application.CreateForm(TInicial, Inicial);
+  Application.Run;
+end.

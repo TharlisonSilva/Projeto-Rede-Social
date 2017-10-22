@@ -1,0 +1,153 @@
+object Inicial: TInicial
+  Left = 0
+  Top = 274
+  BorderIcons = []
+  BorderStyle = bsNone
+  ClientHeight = 437
+  ClientWidth = 691
+  Color = 14145495
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsMDIChild
+  OldCreateOrder = False
+  Position = poDesigned
+  Visible = True
+  WindowState = wsMaximized
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pnlConteudo: TPanel
+    Left = 0
+    Top = 0
+    Width = 691
+    Height = 437
+    Align = alClient
+    BevelOuter = bvNone
+    Color = 14145495
+    ParentBackground = False
+    TabOrder = 0
+    ExplicitTop = -2
+    ExplicitWidth = 694
+    ExplicitHeight = 449
+    object Image1: TImage
+      Left = 625
+      Top = 387
+      Width = 35
+      Height = 35
+      Cursor = crHandPoint
+      AutoSize = True
+      Center = True
+      Picture.Data = {
+        0954506E67496D61676589504E470D0A1A0A0000000D49484452000000230000
+        002308060000001ED9B359000002274944415478DAED97CF4B1B4114C7DF5B33
+        B331525721A6BD34EDC1630F16B4B9148C67F16FD0FF40732F981E7BCAE6D883
+        B0F90FF40F284DF1D25AB17A0CA244505A048B2D856A84BC4E6675BAFE4876B3
+        3BCDA6E017C26620193EF3FDBEF73241E82361DC00F7305DC394361A0B8517DC
+        891DA6F4F9228FD47C2FDE9E2282DD4CF072E1399EC60DE395438065E1D6763F
+        C05C8AAA88682F4E996B3D82395B42C252C74F13D5118C6293B3B57F11E15F98
+        4FE745512BCB01BF2740D021C65A75558F1BC62B87D0A814A658551FCCC6B923
+        16F311F6DA1631DB8B395ED100735645C0E9A8A7937565A0136634E887B92E51
+        57FC75D0BA5230936F76BF1E9DFC7EF4782C25D759F51C04930DC0C311338A5D
+        81468382C997F7ABB5A35F1D9D319901999124242F9FD65002AC14735F432C00
+        53E7D1A06066DF1E2E6DED7D2FF9EFD85E19CB0493BB2EB6DC6CAD93DC502E7B
+        74E7685030732BC72F376BDFD6A3C0F8E9D9134BBA39393E2A20075CB3D098B9
+        1A0B5A9D91315A49E94646B8E38DD01B23111DB49C01CE6D6F5C5DD58C8A4244
+        90CD0CCA75369D52D1F8890876401472BB6BCAAD6E1ABE769A847B52E69EF4CA
+        DA6E45001540C3F19BD20AE6D5BB9F1FD30FCC5C94986E00FC90513066773D67
+        740D3D590F681405C46A6C1398803E88D6B00B397335EC1E917F28653D305ED4
+        719508758568D79A3D85F16BCD9EC0046D4D7D3037EEC0615A53238CFBEF204A
+        6BEA83F9424FA1D19888D29ADA60FA41F730FF05CC1F4340F5246918EB1E0000
+        000049454E44AE426082}
+    end
+    object Label1: TLabel
+      Left = 9
+      Top = 4
+      Width = 72
+      Height = 18
+      Caption = 'Top Hastags'
+      Color = 10791700
+      Font.Charset = GREEK_CHARSET
+      Font.Color = clGray
+      Font.Height = -13
+      Font.Name = 'Trebuchet MS'
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+    end
+    object Label2: TLabel
+      Left = 191
+      Top = 4
+      Width = 85
+      Height = 18
+      Caption = 'Top Fan Faces'
+      Font.Charset = GREEK_CHARSET
+      Font.Color = clGray
+      Font.Height = -13
+      Font.Name = 'Trebuchet MS'
+      Font.Style = [fsBold]
+      ParentFont = False
+    end
+    object Memo1: TMemo
+      Left = 191
+      Top = 28
+      Width = 495
+      Height = 318
+      Margins.Left = 5
+      Margins.Top = 5
+      Align = alCustom
+      BevelInner = bvNone
+      BevelOuter = bvNone
+      BorderStyle = bsNone
+      Color = 15395562
+      Enabled = False
+      Font.Charset = ANSI_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Trebuchet MS'
+      Font.Style = []
+      ParentFont = False
+      ReadOnly = True
+      TabOrder = 1
+    end
+    object Edit1: TEdit
+      Left = 9
+      Top = 352
+      Width = 627
+      Height = 86
+      AutoSelect = False
+      AutoSize = False
+      Font.Charset = ANSI_CHARSET
+      Font.Color = clBlack
+      Font.Height = -15
+      Font.Name = 'Trebuchet MS'
+      Font.Style = []
+      MaxLength = 140
+      ParentFont = False
+      TabOrder = 0
+    end
+    object Memo2: TMemo
+      Left = 9
+      Top = 28
+      Width = 176
+      Height = 318
+      Margins.Left = 5
+      Margins.Top = 5
+      Align = alCustom
+      BevelInner = bvNone
+      BevelOuter = bvNone
+      BorderStyle = bsNone
+      Color = 15395562
+      Enabled = False
+      Font.Charset = ANSI_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Trebuchet MS'
+      Font.Style = []
+      ParentFont = False
+      ReadOnly = True
+      TabOrder = 2
+    end
+  end
+end
